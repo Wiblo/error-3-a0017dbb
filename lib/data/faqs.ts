@@ -11,51 +11,51 @@ export interface FaqItem {
 export const faqs: FaqItem[] = [
   {
     id: 'first-visit',
-    question: 'What should I expect on my first visit?',
+    question: 'What should I expect on my first visit to the North Pole?',
     answer:
-      "Your initial consultation includes a thorough history taking and physical examination to determine if chiropractic care is suitable for you. We'll discuss your health goals and create a personalized treatment plan. The first visit typically lasts 45 minutes to ensure we understand your needs completely. Follow-up appointments are 30 minutes.",
+      "Your initial visit includes meeting Santa, a thorough review of your good deeds, and a personalized wish list consultation. We'll discuss your Christmas dreams and create a customized gift plan. The first visit typically includes hot cocoa and cookies, and lasts about an hour to ensure we understand your wishes completely. Follow-up visits are 30 minutes.",
   },
   {
-    id: 'medical-aid',
-    question: 'Do you accept medical aid?',
+    id: 'nice-list',
+    question: 'How do I get on the Nice List?',
     answer:
-      'Yes, we process medical aid claims on your behalf. We work with most major medical aids in South Africa. You settle your bill after your session and then we will submit the claim to your medical aid.',
+      'Getting on the Nice List is simple! Be kind to others, help your family, do good deeds, and spread Christmas cheer throughout the year. Santa and his elves monitor behavior year-round. Even small acts of kindness count toward Nice List status. Remember, it\'s never too late to start being nice!',
   },
   {
     id: 'painful',
-    question: 'Is chiropractic treatment painful?',
+    question: 'Does Santa really deliver to every house in one night?',
     answer:
-      "Chiropractic adjustments are generally not painful. You may feel slight pressure or hear a popping sound, but the treatment is designed to relieve pain, not cause it. We adapt techniques to each patient's comfort level and always communicate throughout the treatment to ensure you're comfortable.",
+      "Yes! With Christmas magic, nine flying reindeer, and centuries of experience, Santa visits every good child's home on Christmas Eve. The sleigh travels faster than the speed of light and can stop time in small bursts. Plus, Santa's magic allows him to fit down any chimney, no matter how small!",
   },
   {
     id: 'sessions',
-    question: 'How many sessions will I need?',
+    question: 'How many times can I update my wish list?',
     answer:
-      "The number of sessions varies depending on your condition, its severity, and your health goals. After your initial assessment, we'll provide a treatment plan with an estimated timeline. Most patients see improvement within 2-4 sessions, though chronic conditions may require ongoing care.",
+      "You can update your wish list as many times as you'd like before December 20th, when the list is finalized. However, remember that being greedy might affect your Nice List status. Santa recommends keeping your list reasonable and thinking of others. You can submit updates through our online portal or by sending letters to the North Pole.",
   },
   {
-    id: 'pregnancy',
-    question: 'Is chiropractic care safe during pregnancy?',
+    id: 'pets',
+    question: 'Does Santa deliver presents to pets?',
     answer:
-      'Yes, chiropractic care is safe and beneficial during pregnancy. We use specialized techniques designed for pregnant women to help manage pain and ensure proper pelvic alignment for easier delivery. Many women find relief from pregnancy-related back pain through gentle chiropractic care.',
+      'Absolutely! Santa loves all animals and has a special elf division dedicated to pet gifts. Well-behaved pets who bring joy to their families receive special treats and toys. Just include your pet\'s name on your wish list along with what kind of gift they might enjoy.',
   },
   {
     id: 'children',
-    question: 'Can children receive chiropractic treatment?',
+    question: 'At what age do children stop receiving gifts from Santa?',
     answer:
-      'Absolutely! Children can benefit greatly from chiropractic care. We use gentle, age-appropriate techniques to address issues like colic, growing pains, sports injuries, and posture problems. Pediatric chiropractic care supports healthy development and can prevent future problems.',
+      'The magic of Christmas never ends! As long as you believe in the spirit of Christmas and keep kindness in your heart, you\'re never too old for Christmas magic. Many adults continue to experience the joy of giving and receiving through the Christmas spirit Santa represents.',
   },
   {
     id: 'appointment',
-    question: 'How do I book an appointment?',
+    question: 'How do I schedule a visit with Santa?',
     answer:
-      'You can book an appointment through our online booking system at Sticks and Stones Wellness Hub, call us at 082 940 7129, or email kamilahjordaan@gmail.com. We offer flexible scheduling with appointments available 6 days a week to accommodate your busy lifestyle.',
+      'You can schedule a visit through our online Nice List registration system, call us at (555) HO-HO-HO, or send a letter to 1 Candy Cane Lane, North Pole, AK 99705. We offer flexible visiting hours 6 days a week. During the busy Christmas season (November-December), appointments fill quickly so book early!',
   },
   {
     id: 'what-to-wear',
-    question: 'What should I wear to my appointment?',
+    question: 'What should I wear when visiting the North Pole?',
     answer:
-      'Wear comfortable, loose-fitting clothing that allows for movement. Avoid wearing dresses or skirts if possible, as you may need to perform certain movements during the examination.',
+      'Dress warmly! The North Pole is quite cold year-round. We recommend wearing cozy winter clothing, including a warm coat, hat, mittens, and boots. Inside the workshop it\'s nice and toasty thanks to the hot cocoa and candy cane fires, but you\'ll want warm clothes for the reindeer stables and outdoor areas.',
   },
 ]
 

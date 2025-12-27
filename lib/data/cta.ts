@@ -12,11 +12,11 @@ export interface CTAContent {
  * Update this to modify the CTA section shown on the homepage
  */
 export const ctaContent: CTAContent = {
-  title: 'Ready to Start Your Healing Journey?',
+  title: 'Ready to Join the Nice List?',
   description:
-    'Experience comprehensive chiropractic care tailored to your unique needs. Dr. Kamilah Jordaan is here to help you achieve optimal health and wellness.',
-  ctaText: 'Book Your Appointment',
-  ctaUrl: 'https://sticksandstoneswellnesshub.pencilmein.online/Booking',
-  backgroundImage: '/cta-background.jpeg',
-  backgroundImageAlt: 'Professional chiropractic treatment room',
+    'Experience the magic of Christmas tailored to your unique dreams and wishes. Santa Claus is here to help you achieve the most wonderful Christmas ever and spread joy throughout the year.',
+  ctaText: 'Join the Nice List',
+  ctaUrl: 'https://northpole.christmas/nice-list',
+  backgroundImage: 'https://images.unsplash.com/photo-1512389142860-9c449e58a543?w=1200&q=80',
+  backgroundImageAlt: 'Cozy Christmas scene with fireplace and presents',
 }

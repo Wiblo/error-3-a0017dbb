@@ -17,11 +17,11 @@ export interface AboutFull {
  * Brief introduction with link to full about page
  */
 export const aboutPreview: AboutPreview = {
-  title: 'About Our Practice',
+  title: 'About Santa Claus',
   description:
-    "Dr. Kamilah Jordaan is a dedicated chiropractor committed to helping people achieve a pain-free life through non-invasive healthcare. With a Master's degree in Chiropractic from the University of Johannesburg earned with distinction, she provides holistic, patient-centered care to individuals of all ages.",
-  image: '/dr-kamilah-professional-portrait.jpeg',
-  imageAlt: 'Dr. Kamilah Jordaan professional portrait',
+    "Santa Claus is a legendary gift-giver dedicated to spreading joy and cheer to children around the world. With over 200 years of experience delivering presents on Christmas Eve, he brings magic and wonder to families everywhere. Known for his jolly laugh and kind heart, Santa ensures every child's Christmas dreams come true.",
+  image: 'https://images.unsplash.com/photo-1608535002897-27b2aa592456?w=800&q=80',
+  imageAlt: 'Santa Claus in his traditional red suit',
 }
 
 /**
@@ -29,12 +29,12 @@ export const aboutPreview: AboutPreview = {
  * Comprehensive information about the practice
  */
 export const aboutFull: AboutFull = {
-  title: 'About Dr. Kamilah Jordaan',
+  title: 'About Santa Claus',
   paragraphs: [
-    "Dr. Kamilah Jordaan is a dedicated chiropractor committed to helping people achieve a pain-free life through non-invasive healthcare. With a Master's degree in Chiropractic from the University of Johannesburg earned with distinction, she provides holistic, patient-centered care to individuals of all ages.",
-    'Specializing in sports and family chiropractic care, Dr. Jordaan combines advanced techniques with a compassionate approach to address a wide range of conditions, from sports injuries to chronic pain management.',
-    'At Sticks and Stones Wellness Hub, every patient receives personalized attention and a customized treatment plan designed to support their unique healing journey and long-term wellness goals.',
+    "Santa Claus is a legendary gift-giver dedicated to spreading joy and cheer to children around the world. With over 200 years of experience delivering presents on Christmas Eve, he brings magic and wonder to families everywhere. Living at the North Pole with Mrs. Claus and his team of industrious elves, Santa oversees the world's most magical toy workshop.",
+    'Specializing in toy-making, list-checking, and reindeer navigation, Santa combines ancient Christmas magic with a compassionate approach to ensure every good child receives the perfect gift. His workshop operates year-round, with elves crafting toys and checking the Nice List twice.',
+    'At the North Pole Workshop, every child receives personalized attention and their wishes are carefully considered. Santa and his team work tirelessly to support the spirit of Christmas and bring joy to hearts young and old across the globe.',
   ],
-  image: '/dr-kamilah-professional-portrait.jpeg',
-  imageAlt: 'Dr. Kamilah Jordaan professional portrait',
+  image: 'https://images.unsplash.com/photo-1608535002897-27b2aa592456?w=800&q=80',
+  imageAlt: 'Santa Claus in his traditional red suit',
 }

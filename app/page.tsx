@@ -11,11 +11,11 @@ export default function Home() {
   return (
     <>
       <HeroWithImage
-        subtitle="Dr. Kamilah Jordaan"
-        title="Sports & Family Chiropractic Care"
-        backgroundImage="/dr-kamilah-professional-portrait.jpeg"
-        backgroundImageAlt="Dr. Kamilah Jordaan - Professional Chiropractor"
-        ctaText="Book Your Appointment"
+        subtitle="Santa Claus & His Elves"
+        title="Spreading Christmas Magic & Joy Since 1823"
+        backgroundImage="https://images.unsplash.com/photo-1512909006721-3d6018887383?w=1600&q=80"
+        backgroundImageAlt="Santa Claus delivering presents on Christmas Eve"
+        ctaText="Join the Nice List"
         ctaUrl={businessInfo.bookingUrl}
       />
       <FeaturedServices />

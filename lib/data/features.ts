@@ -14,29 +14,29 @@ export interface FeatureBlock {
 export const featureBlocks: FeatureBlock[] = [
   {
     id: 'feature-1',
-    title: 'Expert Chiropractic Care',
+    title: 'Magical Toy Workshop',
     description:
-      'Our comprehensive approach combines advanced chiropractic techniques with personalized treatment plans designed to address your specific needs. We focus on long-term solutions rather than temporary relief, helping you achieve lasting wellness.',
-    image: '/spinal-adjustment-treatment.jpeg',
-    imageAlt: 'Professional chiropractic treatment',
+      'Our comprehensive workshop combines centuries-old toy-making techniques with Christmas magic to create perfect gifts for every child. Our skilled elves work year-round crafting personalized toys, ensuring each present brings maximum joy and wonder on Christmas morning.',
+    image: 'https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800&q=80',
+    imageAlt: 'Christmas workshop with toys and decorations',
     imagePosition: 'right',
   },
   {
     id: 'feature-2',
-    title: 'Modern Treatment Techniques',
+    title: 'Flying Reindeer Fleet',
     description:
-      'We utilize the latest evidence-based chiropractic methods and state-of-the-art equipment to provide effective, gentle care. Our techniques are continuously updated to incorporate the most current research in chiropractic medicine.',
-    image: '/iastm-shoulder-treatment.jpeg',
-    imageAlt: 'Modern treatment techniques',
+      'We utilize a team of nine magical reindeer led by Rudolph with his bright red nose to ensure timely delivery worldwide. Our sleigh technology is continuously updated with the latest in Christmas magic, allowing us to visit every home in a single night.',
+    image: 'https://images.unsplash.com/photo-1543589923-e5e5d97dc3ff?w=800&q=80',
+    imageAlt: 'Reindeer in snowy winter landscape',
     imagePosition: 'left',
   },
   {
     id: 'feature-3',
-    title: 'Personalized Wellness Plans',
+    title: 'Personalized Nice List',
     description:
-      'Every patient receives a customized treatment plan tailored to their unique condition, lifestyle, and wellness goals. We take the time to understand your needs and create a roadmap to help you achieve optimal health.',
-    image: '/hip-adjustment-side-lying.jpeg',
-    imageAlt: 'Personalized wellness consultation',
+      'Every child receives individualized attention with our advanced Nice List tracking system. We monitor good deeds year-round and create customized gift plans based on behavior, kindness, and Christmas spirit. Santa checks the list twice to ensure accuracy.',
+    image: 'https://images.unsplash.com/photo-1482517967863-00e15c9b44be?w=800&q=80',
+    imageAlt: 'Child writing Christmas wish list',
     imagePosition: 'right',
   },
 ]
